@@ -1,0 +1,1 @@
+At the time of adding these files, many of them are currently incomplete and lack the polish/documentation needed to truly exhibit my abilities. That being said, this archive will be updated where possible to reflect new abilities and additional education obtained in C#
